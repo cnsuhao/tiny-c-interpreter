@@ -1,0 +1,3 @@
+[submodule "tiny-c-interpreter"]
+	path = tiny-c-interpreter
+	url = https://github.com/jiaojinxing/tiny-c-interpreter-1.git
